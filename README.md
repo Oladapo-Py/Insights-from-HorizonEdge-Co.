@@ -49,4 +49,5 @@ The dataset includes 2023 sales records with 998 rows and 13 columns: Sales Rep,
 - Integrate predictive analytics to forecast sales trends.
 
 ## Contact
-Connect with me on LinkedIn:https://medium.com/@lijaduoladapobayilori/. Open to feedback and collaboration!
+Connect with me on LinkedIn: https://www.linkedin.com/in/oladapo-lijadu-5b7481181/
+Open to feedback and collaboration!
